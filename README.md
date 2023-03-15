@@ -5,3 +5,5 @@ In this tutorial, you will familiarize yourself with working with <b>2D arrays</
 <b>Ten methods</b> stand in the way between you and freedom. Eliminate those ten methods asap!
 
 Good luck, have fun =)
+
+Darren Liu
